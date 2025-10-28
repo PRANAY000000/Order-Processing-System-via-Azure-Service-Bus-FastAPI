@@ -1,0 +1,2 @@
+[2025-10-29 01:53:36.268171] Order processed: {'order_id': 'ORD1001', 'customer_email': 'divyesh@example.com', 'items': ['Book', 'sketches'], 'total': 250.5, 'status': 'PENDING'}
+[2025-10-29 01:54:41.746965] Order processed: {'order_id': 'ORD1002', 'customer_email': 'pranay@example.com', 'items': ['Book', 'groceries'], 'total': 340.5, 'status': 'PENDING'}

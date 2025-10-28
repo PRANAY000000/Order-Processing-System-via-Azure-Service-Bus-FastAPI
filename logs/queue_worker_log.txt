@@ -1,0 +1,4 @@
+[2025-10-29 01:53:24] Order received: {'order_id': 'ORD1001', 'customer_email': 'divyesh@example.com', 'items': ['Book', 'sketches'], 'total': 250.5, 'status': 'PENDING'}
+[2025-10-29 01:53:26] Order forwarded to topic successfully.
+[2025-10-29 01:54:39] Order received: {'order_id': 'ORD1002', 'customer_email': 'pranay@example.com', 'items': ['Book', 'groceries'], 'total': 340.5, 'status': 'PENDING'}
+[2025-10-29 01:54:41] Order forwarded to topic successfully.

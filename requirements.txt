@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+azure-servicebus
+pydantic
+python-dotenv
