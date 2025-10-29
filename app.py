@@ -9,7 +9,7 @@ import os
 app = FastAPI(title="Order Processing System - Azure Service Bus")
 
 # Azure Service Bus Configuration
-SERVICE_BUS_CONNECTION_STR = "Endpoint=sb://pranayganagalla.servicebus.windows.net/;SharedAccessKeyName=queue_order;SharedAccessKey=zxA7OXQ+lAvw+j2F5ZKLcRvbjIkmbdBhW+ASbDV8tTE=;EntityPath=order-queue"
+SERVICE_BUS_CONNECTION_STR = "CONNECTION_STRING_HERE"
 QUEUE_NAME = "order-queue"
 TOPIC_NAME = "order_distributed"
 

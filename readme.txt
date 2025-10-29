@@ -22,7 +22,7 @@ CONNECTION_STR
 Start FastAPI
 fastapi dev app.py
 
-POST http://127.0.0.1:8000/order
+POST http://127.0.0.1:8000/place-order
 
 Example:
 Content-Type: application/json
